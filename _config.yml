@@ -1,8 +1,8 @@
-title: Jess and Jerome 29/06/18
+title: Jess and Jerome 
 email: your-email@domain.com
 description: Jess and Jerome's wedding website.
 permalink: ':title/'
-baseurl: "/wedding" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
