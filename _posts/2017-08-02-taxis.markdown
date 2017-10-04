@@ -9,9 +9,9 @@ author: # Add name author (optional)
 
 ## Taxi numbers
 
-- [Royal cars](https://www.royal-cars.com/): <tel:+441865777333>
-- [001](http://www.001taxis.com/): <tel:+4401865240000>
-- [A2B Taxis](http://www.a2boxfordtaxi.co.uk/): 01865 770077 / 01865 242424
+- [Royal cars](https://www.royal-cars.com/): <a href="tel:+441865777333">01865 777333</a>
+- [001](http://www.001taxis.com/): <a href="tel:+4401865240000">01865 240000</a>
+- [A2B Taxis](http://www.a2boxfordtaxi.co.uk/): <a href="tel:+441865770077">01865 770077</a>
 
 Oxford also has black cabs which can be hailed from the street or picked up at taxi ranks throughout the city.
 
