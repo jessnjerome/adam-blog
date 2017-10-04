@@ -1,0 +1,16 @@
+---
+layout: post
+title: Oxford
+description: Information about Oxford
+img: oxford.jpg
+tags: []
+author: # Add name author (optional)
+---
+
+## Things to do in Oxford
+If you're thinking of staying for the weekend, there are plenty of things to see and do in Oxford. 
+The [Daily Info](https://www.dailyinfo.co.uk/guide/things-to-do) is a local guide with some suggestions.
+
+
+
+
