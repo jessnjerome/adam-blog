@@ -7,7 +7,7 @@
       <nav class="main-nav">
         <span class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
         <ul>
-          <li><a href="{{site.baseurl}}">Home</a></li>
+          <li><a href="{{root_url}}/">Home</a></li>
         {% for post in site.posts offset:0 %}
           <li><a href="{{root_url}}{{post.url}}">{{post.title}}</a></li>
         {% endfor %}
