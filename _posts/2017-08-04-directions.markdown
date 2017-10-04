@@ -15,7 +15,7 @@ flying into Heathrow, take the Airline bus to Oxford from the main bus station
 in Terminal 2. This leaves every 20/30 mins and takes about 80 mins to get to
 Oxford. Please see the [Airline website](https://airline.oxfordbus.co.uk/timetables/airline-heathrow) 
 for further information. Similar services
-bus run from Gatwick, Luton and Stanstead but Heathrow is by far the easiest.
+bus run from Gatwick, Luton and Stansted but Heathrow is by far the easiest.
 
 If flying into Birmingham, you can get the train from the airport to Oxford
 Station. This takes about and 1 hour. Please see the [National Rail website](http://www.nationalrail.co.uk)
@@ -24,7 +24,7 @@ for planning train travel.
 ## By car
 
 If you plan to arrive by car, please be aware that unfortunately parking near
-the Bodliean is rather limited. If you're not staying over in Oxford, we have a
+the Bodleian is rather limited. If you're not staying over in Oxford, we have a
 few car parking spaces reserved at the Perch, so we'd advise driving there
 before the ceremony and getting a taxi to the Bodleian from there, so that you
 can drive home directly from the Perch after the reception.
