@@ -7,10 +7,8 @@ tags: []
 author: # Add name author (optional)
 ---
 
-### Accommodation
-
 Oxford has lots of hotels to suit most budgets and tastes. We'd recommend
-booking early as June can be very busy with tourists. Although being fairly
+booking early as June can be very busy with tourists. Although fairly
 centrally located, the Perch is located down a long winding lane, which means a
 taxi will be required to get back to your hotel after the reception. Therefore,
 we'd recommend choosing your hotel location based on  distance from the
@@ -27,3 +25,4 @@ Options:
 - [TripAdvisor](https://www.tripadvisor.co.uk/VacationRentals-g186361-Reviews-Oxford_Oxfordshire_England-Vacation_Rentals.html) holiday rentals
 - [Booking.com](https://www.booking.com/city/gb/oxford.html) hotels
 - [HolidayLettings.co.uk](https://www.holidaylettings.co.uk/oxford/)
+- [Hawkwell House](http://www.hawkwellhouse.co.uk/) Hotel

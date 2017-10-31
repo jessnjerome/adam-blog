@@ -7,21 +7,19 @@ tags: []
 author: # Add name author (optional)
 ---
 
-## Schedule
-
-The wedding is on the 29th June 2018!
+The wedding is on Friday 29th June 2018!
 
 The ceremony and reception will take place in different venues in Oxford,
 although we'll take care of transport from the ceremony at the Bodleian
-Library, right through to the reception at the Perch pub. This will include a
-boat ride down the Thames!
+Library, right through to the reception at The Perch. This will include a
+boat ride up the Thames!
 
 Schedule for the day
 
 - 13:00 Ceremony at the Divinity School in the Bodleian Library
 - 14:00 Leisurely walk/coaches to Folly Bridge
-- 15:00 Boats leave Folly Bridge, travel up the Thames to the Perch pub
-- 16:00 Fizz and canapés at the Perch
+- 15:00 Boats leave Folly Bridge, travel up the Thames to The Perch
+- 16:00 Reception at the Perch
 - 17:00 Dinner
 - 20:00 Ceilidh and disco
 - 00:00 The End!

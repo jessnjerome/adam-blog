@@ -25,9 +25,9 @@ for planning train travel.
 
 If you plan to arrive by car, please be aware that unfortunately parking near
 the Bodleian is rather limited. If you're not staying over in Oxford, we have a
-few car parking spaces reserved at the Perch, so we'd advise driving there
+few car parking spaces reserved at The Perch, so we'd advise driving there
 before the ceremony and getting a taxi to the Bodleian from there, so that you
-can drive home directly from the Perch after the reception.
+can drive home directly from The Perch after the reception.
 
 
 If you're driving to Oxford for the weekend and your hotel doesn't provide
@@ -36,5 +36,5 @@ car parks.
 
 ## By boat
 
-If travelling from Ireland, there is a boat service running from either Rosslare-Fishguard or Dublin-Holyhead. 
+If travelling from Ireland, there ferries running from either Rosslare-Fishguard or Dublin-Holyhead. 
 More information can be found [here](https://www.directferries.co.uk/ireland.htm)
