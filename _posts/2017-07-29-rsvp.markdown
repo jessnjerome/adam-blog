@@ -8,6 +8,7 @@ author: # Add name author (optional)
 ---
 
 <div class="newsletter" id="mc_embed_signup">
+    <p> We'd kindly ask you to respond by the 29th February 2018. </p>
   <div class="form-container">
     <p> Please let us know if you can make it by filling out this form.</p>
     <form action="https://getsimpleform.com/messages?form_api_token=f2fc9e34379dfdacc0ae2564c1857ba8" method="post">
