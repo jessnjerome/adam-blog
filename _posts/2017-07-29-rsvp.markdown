@@ -26,7 +26,7 @@ author: # Add name author (optional)
   </div>
   <div class="form-container">
 
-    <p> Please let us know if you can make it by filling out this form.</p>
+    <p> Please let us know if you can make it by filling out this form!</p>
     <form action="https://getsimpleform.com/messages?form_api_token=f2fc9e34379dfdacc0ae2564c1857ba8" method="post">
         
       <input type='hidden' name='redirect_to' value='http://jessnjerome.github.io/thanks/' />
