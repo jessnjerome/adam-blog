@@ -8,8 +8,24 @@ author: # Add name author (optional)
 ---
 
 <div class="newsletter" id="mc_embed_signup">
-    <p> We'd kindly ask you to respond by the 29th February 2018. </p>
+
+
+    
+    <p> <b> We'd kindly ask you to respond by the 28th February 2018. </b> </p>
+
+   <div class="wrapper">
+    <p> While we would love to have lots of children at the wedding, unfortunately
+        space is quite limited and so we can't invite children (other than our immediate family).
+        We are sorry for any inconvenience this might cause.
+    </p>
+
+    <p>
+        Obviously, young babies who are still nursing are very welcome (since we 
+        don't have to feed them!)
+    </p>
+  </div>
   <div class="form-container">
+
     <p> Please let us know if you can make it by filling out this form.</p>
     <form action="https://getsimpleform.com/messages?form_api_token=f2fc9e34379dfdacc0ae2564c1857ba8" method="post">
         
