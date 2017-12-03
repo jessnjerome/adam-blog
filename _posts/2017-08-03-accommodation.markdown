@@ -9,7 +9,7 @@ author: # Add name author (optional)
 
 Oxford has lots of hotels to suit most budgets and tastes. We'd recommend
 booking early as June can be very busy with tourists. Although fairly
-centrally located, the Perch is located down a long winding lane, which means a
+centrally located, The Perch is located down a long winding lane, which means a
 taxi will be required to get back to your hotel after the reception. Therefore,
 we'd recommend choosing your hotel location based on  distance from the
 Bodleian rather than the Perch.
