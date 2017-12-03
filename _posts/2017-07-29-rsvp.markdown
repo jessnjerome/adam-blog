@@ -20,8 +20,7 @@ author: # Add name author (optional)
     </p>
 
     <p>
-        Obviously, young babies who are still nursing are very welcome (since we 
-        don't have to feed them!)
+        Obviously, young babies who are still nursing are very welcome. 
     </p>
   </div>
   <div class="form-container">
